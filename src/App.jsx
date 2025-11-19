@@ -3,7 +3,8 @@ import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import HowItWorks from './components/HowItWorks'
 import DueDiligence from './components/DueDiligence'
-import Compliance from './components/Compliance'
+import ShariaBoard from './components/ShariaBoard'
+import Legal from './components/Legal'
 import Partners from './components/Partners'
 import AppSection from './components/AppSection'
 import Footer from './components/Footer'
@@ -15,7 +16,8 @@ function App() {
       <Hero />
       <HowItWorks />
       <DueDiligence />
-      <Compliance />
+      <ShariaBoard />
+      <Legal />
       <Partners />
       <AppSection />
       <Footer />
